@@ -14,7 +14,7 @@ I automate the part where we pretend nothing broke.
 ## 🧠 About me
 - 👩‍💻 Software developer with a strong interest in **DevOps, CI/CD, and automation**
 - 🔍 Making systems **self-managing & less annoying**
-- 🎨 Creative brain — logic by day, art by night
+- 🎨 Creative brain^^ logic by day, art by night
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="260" />
