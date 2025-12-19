@@ -1,4 +1,4 @@
-# 👁️‍🗨️ Oii mate!!
+# 👁️‍🗨️ Oii mate!! my name is Eya
 
 **Software Engineer**  
 I build things.  
