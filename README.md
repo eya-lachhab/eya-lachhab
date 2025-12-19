@@ -28,7 +28,7 @@ I automate the part where we pretend nothing broke.
 - Python • JavaScript • Bash • SQL • Groovy
 
 **Dev & DevOps**
-- Docker • GitHub Actions • CI/CD pipelines  
+- Docker • GitHub Actions • CI/CD pipelines • Jenkins
 - Linux • Git • REST APIs  
 - Shell scripting • Automation tooling
 
