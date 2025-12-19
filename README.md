@@ -1,6 +1,6 @@
 # 👁️‍🗨️ Oii mate!! my name is Eya
 
-**Software Engineer**  
+**I'm a DevOps and Automation Engineer**  
 I build things.  
 I break things.  
 I automate the part where we pretend nothing broke.
